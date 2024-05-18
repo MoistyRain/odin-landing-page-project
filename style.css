@@ -5,3 +5,32 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+.header {
+    background-color: hsl(213, 37%, 15%);
+    color: white;
+}
+
+.header .upper-portion {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header ul {
+    display: flex;
+    gap: 10px;
+}
+
+.header .lower-portion {
+    display: flex;
+    gap: 20px;
+}
