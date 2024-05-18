@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Alata');
+
+body {
+    font-family: 'Alata'; 
+    display: flex;
+    flex-direction: column;
+}
